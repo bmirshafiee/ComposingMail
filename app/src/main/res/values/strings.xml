@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compose Mail</string>
+    <string name="edit_text_number_one">To:</string>
+    <string name="edit_text_number_two">Subject:</string>
+    <string name="edit_text_number_three">Message</string>
+    <string name="button_string">send</string>
+</resources>
